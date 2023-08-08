@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ElCreadorDeViudasSlash1
+  m_Name: ElCreadorDeViudasSlash1(Dark)
   m_Shader: {fileID: -6465566751694194690, guid: c9f33e6591fb8f54eb3ba769c18ca653, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -46,10 +46,10 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Blend: 2
+    - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
-    - _DstBlend: 1
+    - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
